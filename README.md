@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasmartins14
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning  Python, SQL, Microsoft Power BI, Machine Learnng, Big Data Analytics...
-- 💞️ I’m looking to collaborate on Data Analytics
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me lucasalexanddre@hotmail.com
 
 <!---
